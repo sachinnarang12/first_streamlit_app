@@ -1,2 +1,5 @@
 #requirements.txt
-snowflake-connector-python
+streamlit>=1.32,<1.37
+pandas>=2.0,<2.3
+requests>=2.31,<3
+snowflake-connector-python>=3.10,<4
